@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 20436c3b2e33ad6489b7ec64001ba174
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Body
+    100002: Bone001
+    100004: Bone002
+    100006: Bone003
+    100008: Bone004
+    100010: Bone005
+    100012: Box001
+    100014: Bras0
+    100016: Bras002
+    100018: Bras003
+    100020: Bras004
+    100022: Bras005
+    100024: Bras006
+    100026: Bras007
+    100028: Bras1
+    100030: Capsule001
+    100032: Capsule002
+    100034: Cockpit
+    100036: Cylinder001
+    100038: Moteur
+    100040: Moteur001
+    100042: Moteur002
+    100044: Nom
+    100046: Poign__e
+    100048: Sas
+    100050: Sas - porte
+    100052: Torus001
+    100054: //RootNode
+    100056: Verri__re
+    400000: Body
+    400002: Bone001
+    400004: Bone002
+    400006: Bone003
+    400008: Bone004
+    400010: Bone005
+    400012: Box001
+    400014: Bras0
+    400016: Bras002
+    400018: Bras003
+    400020: Bras004
+    400022: Bras005
+    400024: Bras006
+    400026: Bras007
+    400028: Bras1
+    400030: Capsule001
+    400032: Capsule002
+    400034: Cockpit
+    400036: Cylinder001
+    400038: Moteur
+    400040: Moteur001
+    400042: Moteur002
+    400044: Nom
+    400046: Poign__e
+    400048: Sas
+    400050: Sas - porte
+    400052: Torus001
+    400054: //RootNode
+    400056: Verri__re
+    2300000: Body
+    2300002: Box001
+    2300004: Bras0
+    2300006: Bras002
+    2300008: Bras003
+    2300010: Bras004
+    2300012: Bras005
+    2300014: Bras006
+    2300016: Bras007
+    2300018: Bras1
+    2300020: Capsule001
+    2300022: Capsule002
+    2300024: Cockpit
+    2300026: Cylinder001
+    2300028: Moteur
+    2300030: Moteur001
+    2300032: Moteur002
+    2300034: Nom
+    2300036: Poign__e
+    2300038: Sas
+    2300040: Sas - porte
+    2300042: Torus001
+    2300044: Verri__re
+    3300000: Body
+    3300002: Box001
+    3300004: Bras0
+    3300006: Bras002
+    3300008: Bras003
+    3300010: Bras004
+    3300012: Bras005
+    3300014: Bras006
+    3300016: Bras007
+    3300018: Bras1
+    3300020: Capsule001
+    3300022: Capsule002
+    3300024: Cockpit
+    3300026: Cylinder001
+    3300028: Moteur
+    3300030: Moteur001
+    3300032: Moteur002
+    3300034: Nom
+    3300036: Poign__e
+    3300038: Sas
+    3300040: Sas - porte
+    3300042: Torus001
+    3300044: Verri__re
+    4300000: Cockpit
+    4300002: Sas
+    4300004: Torus001
+    4300006: Body
+    4300008: Capsule001
+    4300010: Capsule002
+    4300012: Cylinder001
+    4300014: Moteur
+    4300016: Moteur001
+    4300018: Moteur002
+    4300020: Poign__e
+    4300022: Nom
+    4300024: Sas - porte
+    4300026: Verri__re
+    4300028: Bras0
+    4300030: Bras1
+    4300032: Bras002
+    4300034: Bras003
+    4300036: Bras004
+    4300038: Bras005
+    4300040: Box001
+    4300042: Bras006
+    4300044: Bras007
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
